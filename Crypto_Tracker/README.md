@@ -1,2 +1,2 @@
 # Crypto-Tracker# CryptoLiveTracker
-This crypto tracker tracks and updates the top crypto currencies in every 5 minutes and saves them in an excel file. The execl file also gets updated simultaneously. As we run the code, first a pdf is generated stating the top 5 cryptocurrencies.
+This crypto tracker monitors and updates the top cryptocurrencies every 5 minutes, saving the data in an Excel file, which is simultaneously updated. Upon running the code, a PDF is first generated, displaying the top 5 cryptocurrencies.
